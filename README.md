@@ -88,7 +88,7 @@ Hosted at:
 
 🔗 Author - @DIBAKAR PARIDA
 
-dibakarparida51@gmail.com
+👨🏻‍💻 dibakarparida51@gmail.com
 
 ✅ Linkedin ✅ https://www.linkedin.com/in/dibakar-parida/ ✅
 
