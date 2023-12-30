@@ -5,8 +5,6 @@
  
 ## 🪧Demo
 
-Hosted at: https://dibakar-authentication-system.onrender.com/
-
 ## 📐Installation
 
 1) Download Zip extract it and then run following commands in directory:
