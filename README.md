@@ -3,7 +3,6 @@
 🔴This Authentication System is made with NODEJS.🔴It Authenticates User and Direct them to Homescreen/Index page.🔴You can use `isAuthenticated` function to Protect Routes against Unauthenticated Users. 🔴 I used Passport Google OAuth2.0 to login/signup using Google. 🔴 I also used a passport local to Authentication Users using the classic sing-up and sign-in way.
 🔴I have used MongoDB as Database to store User Schema.
  
-## 🪧Demo
 
 ## 📐Installation
 
